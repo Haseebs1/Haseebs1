@@ -30,6 +30,15 @@ Here are some of the things I've been working on:
 
 ---
 
+## 🌈 Big Animation: Bouncing Balls
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/99184393/233675055-9f8c6c0e-d5fa-4b0e-a61a-5ea9b3f462f1.gif" alt="Bouncing Balls Animation" />
+</p>
+
+---
+
+Hope you like this little wave animation! 👋
+
 ## 📈 GitHub Stats & Dynamic Graph
 ![Haseeb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Haseebs1&show_icons=true&theme=radical)
 
@@ -41,8 +50,7 @@ Here are some of the things I've been working on:
 ## 📫 How to Reach Me
 Feel free to connect with me on:
 - 🔗 [My Website](https://haseebs1.github.io/)
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 🐦 [Twitter](https://twitter.com/your-profile)
+- 💼 [LinkedIn](https://www.linkedin.com/in/haseeb-shahzad-8863b42b7)
 
 ---
 
