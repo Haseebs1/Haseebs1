@@ -31,7 +31,7 @@ Here are some of the things I've been working on:
 ---
 
 ## 🌈 Panda Wave
-![Alt Text](your-gif.gif)
+![Alt Text](Animation - 1745276096002.gif)
 
 ---
 
