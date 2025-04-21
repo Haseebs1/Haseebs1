@@ -30,10 +30,8 @@ Here are some of the things I've been working on:
 
 ---
 
-## 🌈 Big Animation: Bouncing Balls
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/99184393/233675055-9f8c6c0e-d5fa-4b0e-a61a-5ea9b3f462f1.gif" alt="Bouncing Balls Animation" />
-</p>
+## 🌈 Panda Wave
+![Alt Text](your-gif.gif)
 
 ---
 
