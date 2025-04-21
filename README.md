@@ -18,8 +18,8 @@ Welcome to my GitHub profile! I’m passionate about building creative and impac
 
 ## 🚀 My Projects
 Here are some of the things I've been working on:
-- 🖥️ [Personal Portfolio](https://haseebs1.github.io/) - My personal website showcasing my skills, projects, and more!
-- 💡 [Academic Form Submission System](#) - A role-based web application utilizing Microsoft365 for user authentication. Basic users submit academic forms, generating PDFs with LaTeX and storing them in an Azure SQL database. Admins review submitted forms via an interactive dashboard.
+- 🖥️ [Personal Portfolio](https://github.com/Haseebs1/Haseebs1.github.io) - My personal website showcasing my skills, projects, and more!
+- 💡 [Academic Form Submission System](https://github.com/jcwill23-uh/Swan-River-Group-Project) - A role-based web application utilizing Microsoft365 for user authentication. Basic users submit academic forms, generating PDFs with LaTeX and storing them in an Azure SQL database. Admins review submitted forms via an interactive dashboard.
 
 ---
 
