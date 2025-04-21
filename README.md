@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I’m passionate about building creative and impac
 ## 🚀 My Projects
 Here are some of the things I've been working on:
 - 🖥️ [Personal Portfolio](https://haseebs1.github.io/) - My personal website showcasing my skills, projects, and more!
-- 💡 [Open Source Contributions](#) - Helping make the dev community better, one pull request at a time.
+- 💡 [Academic Form Submission System](#) - A role-based web application utilizing Microsoft365 for user authentication. Basic users submit academic forms, generating PDFs with LaTeX and storing them in an Azure SQL database. Admins review submitted forms via an interactive dashboard.
 
 ---
 
@@ -27,6 +27,14 @@ Here are some of the things I've been working on:
 - 🕹️ I’m a huge fan of gaming and love geeking out about the latest games.
 - 🎨 When I’m not coding, you’ll find me exploring digital art and design.
 - 📚 I’m always looking for my next book to read or podcast to binge.
+
+---
+
+## 📈 GitHub Stats & Dynamic Graph
+![Haseeb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Haseebs1&show_icons=true&theme=radical)
+
+### 📊 My Contributions
+![Haseeb's GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=Haseebs1&theme=react-dark&hide_border=true&area=true)
 
 ---
 
@@ -40,10 +48,10 @@ Feel free to connect with me on:
 
 ## 💻 Tech Stack
 Here are some technologies I love working with:
-- **Languages:** JavaScript, Python
+- **Languages:** JavaScript, Python, C++
 - **Frameworks:** React, Node.js
 - **Tools:** Git, VS Code, Figma
-- **Databases:** MongoDB, PostgreSQL
+- **Databases:** SQL
 
 ---
 
@@ -51,5 +59,3 @@ Here are some technologies I love working with:
 I’m always open to collaborating on exciting projects or just chatting about tech. Let’s create something amazing together!
 
 ---
-
-![Haseeb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Haseebs1&show_icons=true&theme=radical)
