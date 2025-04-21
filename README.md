@@ -30,8 +30,12 @@ Here are some of the things I've been working on:
 
 ---
 
-## 🌈 Panda Wave
-![Alt Text](Animation - 1745276096002.gif)
+## 🌈 Greet Panda
+<p align="center">
+  <img src="Animation%20-%201745276096002.gif" alt="Panda Wave Animation" width="400"/>
+</p>
+
+Say Hi!  🐼🌈
 
 ---
 
